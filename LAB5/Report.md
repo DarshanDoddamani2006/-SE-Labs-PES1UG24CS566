@@ -3,7 +3,7 @@
 ## Repository Information
 
 **Student Repository:**  
-https://github.com/DarshanDoddamani2006/-SE-Labs-PES1UG24CS566/tree/main/LAB5
+https://github.com/DarshanDoddamani2006/L5_17_society_dues
 **Original / Forked Repository:**  
 https://github.com/DarshanDoddamani2006/L5_17_society_dues
 

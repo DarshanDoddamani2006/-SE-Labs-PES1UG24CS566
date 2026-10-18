@@ -4,8 +4,7 @@
 
 **Student Repository:**  
 https://github.com/DarshanDoddamani2006/L5_17_society_dues
-**Original / Forked Repository:**  
-https://github.com/DarshanDoddamani2006/L5_17_society_dues
+
 
 > This repository was forked from the assigned Software Engineering Lab repository and modified as part of Lab 5 – Static Code Analysis.
 

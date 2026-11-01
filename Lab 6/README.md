@@ -2,9 +2,14 @@
 
 Lab 6: Code and Branch Coverage
 
+
 ## About
 
 A small Python module that calculates electricity bills using unit slabs, adds late payment fees and calculates subsidies.
+
+Repository
+
+Forked Repository: L6_L7_17_electricity_bill – Lab 6
 
 ## Files
 
